@@ -1,8 +1,9 @@
 body{
-    background-color: cornflowerblue;
+    background-color: cadetblue;
 }
-h1{ text-align: center; color: blueviolet;
+h1{
+    text-align: justify; color: black;
 }
 p{
-    text-align: center; color: black;
+    text-align: justify; color: black;
 }
